@@ -1,0 +1,12 @@
+* {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: chocolate;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 50px;
+    margin: 5px;
+    padding: .8px;
+}
